@@ -1,6 +1,14 @@
 ## cloning, or imaging, of system
 
-### References
+
+### For jetson xavier
+
+1. [JetPack TK1 1.1 Install and Flash on NVIDIA Jetson TK1](https://www.youtube.com/watch?v=TB-bIayjBbc)
+2. [Jetson/Clone](https://elinux.org/Jetson/Clone)
+3- []()
+
+
+### References to clone standard system
 1. [How to make a disk image and restore from it later?](https://askubuntu.com/questions/19901/how-to-make-a-disk-image-and-restore-from-it-later)
 2. [Free Imaging software - CloneZilla & PartImage - Tutorial ](https://www.dedoimedo.com/computers/free_imaging_software.html)
 3. [Clonezilla - Backup Linux/Ubuntu System](https://www.youtube.com/watch?v=gJKv6NSKMAU)
