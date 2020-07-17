@@ -5,7 +5,9 @@
 
 1. [JetPack TK1 1.1 Install and Flash on NVIDIA Jetson TK1](https://www.youtube.com/watch?v=TB-bIayjBbc)
 2. [Jetson/Clone](https://elinux.org/Jetson/Clone)
-3- []()
+3- [Clone Image - NVIDIA Jetson TK1](https://www.youtube.com/watch?v=VG-OdRSpVPM&t=40s)
+4. [Clone Image – NVIDIA Jetson TK1](https://www.jetsonhacks.com/2015/08/26/clone-image-nvidia-jetson-tk1/)
+5. [Jetson/Cloning](https://elinux.org/Jetson/Cloning)
 
 
 ### References to clone standard system
