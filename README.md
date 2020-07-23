@@ -9,6 +9,8 @@
 4. [Clone Image – NVIDIA Jetson TK1](https://www.jetsonhacks.com/2015/08/26/clone-image-nvidia-jetson-tk1/)
 5. [Jetson/Cloning](https://elinux.org/Jetson/Cloning)
 6. [https://developer.nvidia.com/embedded/downloads/archive](https://developer.nvidia.com/embedded/downloads/archive)
+7. [NVIDIA Tegra Linux Driver Package](https://developer.download.nvidia.com/embedded/L4T/r31_Release_v1.0/BSP/l4t_quick_start_guide.txt?lTrHGaxGN5bO3pj_rZXTNBKE87hnvZIlM-OvYTo6ciQRUK-XLxFg6kg74-a87dzHc0DI4IX6dFCQzocVvzdsL8x-Q5RqdOu9NRuUMd2deNp7whLr0bV-ykAmaavl8REV9clKFwlt23I_tK_WgqkVjUaWJnoEDkelw4M)
+7. []()
 
 
 ### References to clone standard system
